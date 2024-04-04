@@ -29,3 +29,13 @@ Launches the test runner in the interactive watch mode. See the section about [r
 Builds the app for production to the `build` folder.
 
 It correctly bundles React in production mode and optimizes the build for the best performance. The build is minified and the filenames include the hashes.
+
+## How to use
+
+Open [https://www.exchangerate-api.com/] and sign up to obtain your free key.
+
+Fork this repository. 
+
+In src files that list the default API key, login to your ExchangeRateAPI account and replace that key with yours.
+
+You're all set! The free plan comes with 1500 monthly requests. Use them wisely.
